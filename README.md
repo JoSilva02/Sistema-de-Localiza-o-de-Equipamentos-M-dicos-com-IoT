@@ -8,14 +8,12 @@ Implementação de um sistema de localização de equipamentos médicos usando I
 Configuração de dispositivos RFID e gateways IoT (Raspberry Pi) para rastrear cadeiras de rodas e desfibriladores.
 Desenvolvimento de uma interface de mapa interativo com Leaflet.js, mostrando as localizações em tempo real.
 
-- 
 
 ### Contexto e Motivação:
 
 Equipamentos médicos essenciais, como desfibriladores, muitas vezes não estão prontamente disponíveis em emergências. 
 Este sistema oferece rastreamento preciso e uma interface visual para melhorar a gestão interna, reduzindo atrasos no atendimento.
 
-- 
 
 ## Testes Realizados
 
@@ -24,13 +22,11 @@ Teste de comunicação entre o leitor RFID e o Raspberry Pi usando uma etiqueta 
 Simulação de rastreamento no Tinkercad, verificando a leitura de UID de etiquetas RFID.
 Testes na interface de mapa para verificar a atualização em tempo real das localizações.
 
-- 
 
 ### Resultados dos Testes:
 Leituras de etiquetas RFID foram reconhecidas corretamente pelo Raspberry Pi.
 A interface de mapa exibiu atualizações precisas de localização conforme dados enviados pelos gateways.
 
-- 
 
 ## Checklist
 
@@ -55,12 +51,10 @@ A interface de mapa exibiu atualizações precisas de localização conforme dad
 3. Leitor RFID RC522 para rastreamento.
 4. Etiquetas RFID fixadas nos equipamentos médicos.
 
-- 
 
 ### Simulação Utilizado:
 Tinkercad para simulação básica de leitura RFID. Porém, ocorre que o simulador não possui o Leitor RFID para que o teste seja realizado, porem com base no que foi ensinado aos alunos durante as aulas, foi possivel realizar a montagem e teste aplicado no prototipo.
 
--
 
 ### Observações:
 

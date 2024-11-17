@@ -18,12 +18,14 @@ Este sistema oferece rastreamento preciso e uma interface visual para melhorar a
 ## Testes Realizados
 
 ### Descrição dos Testes:
+
 Teste de comunicação entre o leitor RFID e o Raspberry Pi usando uma etiqueta simulada.
 Simulação de rastreamento no Tinkercad, verificando a leitura de UID de etiquetas RFID.
 Testes na interface de mapa para verificar a atualização em tempo real das localizações.
 
 
 ### Resultados dos Testes:
+
 Leituras de etiquetas RFID foram reconhecidas corretamente pelo Raspberry Pi.
 A interface de mapa exibiu atualizações precisas de localização conforme dados enviados pelos gateways.
 
@@ -46,6 +48,7 @@ A interface de mapa exibiu atualizações precisas de localização conforme dad
 ## Informações Adicionais
 
 ### Hardware Utilizado:
+
 1. Arduino Uno.
 2. Jumples.
 3. Leitor RFID RC522 para rastreamento.
@@ -53,13 +56,12 @@ A interface de mapa exibiu atualizações precisas de localização conforme dad
 
 
 ### Simulação Utilizado:
+
 Tinkercad para simulação básica de leitura RFID. Porém, ocorre que o simulador não possui o Leitor RFID para que o teste seja realizado, porem com base no que foi ensinado aos alunos durante as aulas, foi possivel realizar a montagem e teste aplicado no prototipo.
 
 
 ### Observações:
-
-Closes #
-
 ---
+Closes #
 
 
